@@ -1,2 +1,2 @@
 # myhttpd
-Created an http server modeled after the bash command httpd for my Systems class. Written in C, C++.
+Created an http server modeled after the Apache HTTP Daemon. Written in C, C++.
